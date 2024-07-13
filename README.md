@@ -1,3 +1,3 @@
+## Alooooouu 👽👽
 
-
-![Distribuição das Linguagens](languages.png)
+[Veja o gráfico interativo](languages.html)
