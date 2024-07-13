@@ -123,7 +123,7 @@ def get_languages(repos):
                 languages[lang] = 1
     return languages
 
-def plot_languages(languages, output_path='languages.png'):
+def plot_languages(languages, output_path='assets/languages.png'):
     """Gera um gráfico de pizza com a distribuição das linguagens."""
     labels = languages.keys()
     sizes = languages.values()
