@@ -38,18 +38,20 @@ def plot_languages(languages, output_path='assets/languages.png'):
     labels = languages.keys()
     sizes = languages.values()
 
-    fig, ax = plt.subplots(figsize=(10, 7), facecolor='#000')
+    fig, ax = plt.subplots(figsize=(14, 9), facecolor='#000')
     wedges, texts, autotexts = ax.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140, textprops=dict(color="w"))
     
     for wedge in wedges:
         wedge.set_edgecolor('white')
 
     plt.setp(autotexts, size=10, weight="bold")
-    ax.set_title('Distribuição das Linguagens nos Repositórios GitHub', color='white')
+    ax.set_title('Dia a Dia', color='white' )
 
     # Adicionando fundo gradiente manualmente
     fig.patch.set_facecolor('#000')
     ax.set_facecolor('#4B0082')
+    
+    fig.patch.set_xy(xy=[50,50])
 
     fig.savefig(output_path, bbox_inches='tight', transparent=True)
     plt.close()
