@@ -38,7 +38,7 @@ def plot_languages(languages, output_path='assets/languages.png'):
     labels = languages.keys()
     sizes = languages.values()
 
-    fig, ax = plt.subplots(figsize=(14, 9), facecolor='#000')
+    fig, ax = plt.subplots(figsize=(10, 6), facecolor='#000')
     wedges, texts, autotexts = ax.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140, textprops=dict(color="w"))
     
     for wedge in wedges:
