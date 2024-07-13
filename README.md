@@ -1,3 +1,1 @@
-## Alooooouu 👽👽
-
-[Veja o gráfico interativo](languages.html)
+![Distribuição das Linguagens nos Repositórios GitHub](assets/languages.png)
