@@ -45,7 +45,7 @@ def plot_languages(languages, output_path='assets/languages.png'):
         wedge.set_edgecolor('white')
 
     plt.setp(autotexts, size=10, weight="bold")
-    ax.set_title('Dia a Dia', color='white' )
+    
 
     # Adicionando fundo gradiente manualmente
     fig.patch.set_facecolor('#000')
