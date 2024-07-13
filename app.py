@@ -1,5 +1,5 @@
 import requests
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
 # Seu nome de usuário no GitHub
 USERNAME = 'jrrodrigo421'
@@ -31,16 +31,55 @@ def get_languages(repos):
                 languages[lang] = 1
     return languages
 
-def plot_languages(languages, output_path='languages.png'):
-    """Gera um gráfico de pizza com a distribuição das linguagens."""
-    labels = languages.keys()
-    sizes = languages.values()
-    plt.figure(figsize=(10, 7))
-    plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
-    plt.axis('equal')  # Assegura que o gráfico será desenhado como um círculo.
-    plt.title('Distribuição das Linguagens nos Repositórios GitHub')
-    plt.savefig(output_path)  # Salva o gráfico em um arquivo
-    plt.close()
+def plot_languages(languages, output_path='languages.html'):
+    """Gera um gráfico de pizza interativo com a distribuição das linguagens."""
+    labels = list(languages.keys())
+    sizes = list(languages.values())
+
+    fig = go.Figure(data=[go.Pie(labels=labels, values=sizes, hole=.3)])
+
+    # Melhorias no design
+    fig.update_layout(
+        title_text='Distribuição das Linguagens nos Repositórios GitHub',
+        annotations=[dict(text='Linguagens', x=0.5, y=0.5, font_size=20, showarrow=False)],
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
+        font=dict(color='white'),
+        autosize=True,
+        template='plotly_dark',  # Adiciona o template dark
+        margin=dict(l=0, r=0, t=40, b=0),
+        xaxis=dict(
+            showgrid=False,
+            zeroline=False,
+            visible=False
+        ),
+        yaxis=dict(
+            showgrid=False,
+            zeroline=False,
+            visible=False
+        )
+    )
+
+    fig.update_traces(marker=dict(colors=['#636EFA','#EF553B','#00CC96','#AB63FA','#FFA15A',
+                                          '#19D3F3','#FF6692','#B6E880','#FF97FF','#FECB52']),
+                      pull=[0.1, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+
+    # Salva o gráfico como um arquivo HTML
+    fig.write_html(output_path, include_plotlyjs='cdn', full_html=False)
+
+    # Adiciona estilo CSS para centralizar e tornar responsivo com fundo gradiente
+    with open(output_path, 'a') as f:
+        f.write('''<style>
+                    .plotly-graph-div {
+                        margin: auto !important;
+                        background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(75,0,130,1) 100%) !important;
+                    }
+                    @media (max-width: 600px) {
+                        .plotly-graph-div {
+                            width: 100% !important;
+                        }
+                    }
+                   </style>''')
 
 if __name__ == '__main__':
     repos = get_repositories(USERNAME)
