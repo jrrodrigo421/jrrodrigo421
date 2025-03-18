@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><a href="https://acheaqui.vercel.app/">🔍 Encontre prestadores de serviços locais</a></p>
-<!--   <p><a href="https://cannaai.vercel.app/">🌿 Recomendações via IA de cannabis medicinal</a></p> -->
+  <p><a href="https://cannaai.vercel.app/">🌿 Recomendações via IA de cannabis medicinal</a></p>
   <p><a href="https://rjrsolucoes.vercel.app/">🌐 Minha landing Page</a></p>
   <p><a href="https://baixeaqui.vercel.app/">📹 Baixe videos ou áudio do youtube</a></p>
   <p><a href="https://uai-crypto.web.app/">💰 Consulte Bitcoin e Ethereum</a></p>
