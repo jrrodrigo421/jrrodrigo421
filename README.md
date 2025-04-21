@@ -8,8 +8,6 @@
 
 <p><a href="https://cannaai.vercel.app/" target="_blank" rel="noopener noreferrer">🌿 Recomendações via IA de cannabis medicinal (Em testes)</a></p>
 
-<p><a href="https://newsup-8k7p.onrender.com/" target="_blank" rel="noopener noreferrer">📰 Notícias atualizadas em um APP</a></p>
-
 <p><a href="https://rjrsolucoes.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Landing Page - RJR SOLUTIONS</a></p>
 
 <p><a href="https://baixeaqui.vercel.app/" target="_blank" rel="noopener noreferrer">📹 Baixe vídeos ou áudio do YouTube</a></p>
