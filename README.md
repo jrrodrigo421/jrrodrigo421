@@ -1,4 +1,5 @@
 <h1 align="center">💻👩🏾‍💻👽😎🧠🚫🔗</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/237451c4-a7dc-432e-aefc-2225e2fde4bd" alt="пламяGIF">
+ ![HypnoseGIF](https://github.com/user-attachments/assets/84a6fec6-cbc2-40a5-9230-66e9e0c82439)
+
 </div>
