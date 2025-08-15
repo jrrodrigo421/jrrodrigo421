@@ -1,4 +1,4 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b4548e1c-4fc3-4244-bf48-c017c6fe8fc3" alt="ErrorFailGIF">
+  <img src="https://github.com/user-attachments/assets/b2d671e2-4943-45e8-bcd5-b47bd6b31eeb">
 </div>
