@@ -1,5 +1,3 @@
-# jrrodrigo421
-
 ## Profile
 
 Programmer with experience in **web and mobile projects**, working across both **monolithic and distributed architectures**.  
