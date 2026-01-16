@@ -33,10 +33,6 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrrodrigo421&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&border_color=8b0000&title_color=ff0000&text_color=ffffff"/>
-</div>
-
 ---
 
 ## Activity Graph
