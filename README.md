@@ -35,8 +35,6 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 ---
 
-## Activity Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jrrodrigo421&bg_color=0d1117&color=8b0000&line=ff0000&point=ff4d4d&area=true&hide_border=true)
 
 ---
