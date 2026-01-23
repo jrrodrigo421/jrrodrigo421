@@ -12,6 +12,7 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 <div style="display: inline_block">
 
+<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
@@ -27,7 +28,6 @@ Analytical and results-driven profile, capable of solving complex problems throu
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
 
