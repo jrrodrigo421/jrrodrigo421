@@ -1,5 +1,3 @@
-## Profile
-
 Programmer with experience in **web and mobile projects**, working across both **monolithic and distributed architectures**.  
 Hands-on experience in **backend, frontend, and mobile development**, with a strong focus on **security** and **engineering best practices**.
 
@@ -7,8 +5,6 @@ Solid background in **API integration**, **clean architecture**, **deployment au
 Analytical and results-driven profile, capable of solving complex problems through **simple, effective, and maintainable solutions**.
 
 ---
-
-## Languages & Technologies
 
 <div style="display: inline_block">
 
