@@ -7,12 +7,12 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 ---
 
-<div title="GitHub Stats">
+<!-- <div title="GitHub Stats">
   <a href="https://github.com/jrrodrigo421">
   <img height="170em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=jrrodrigo421&show_icons=true&theme=dark&count_private=true"/>
   <img height="170em" loading="lazy" src="https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=jrrodrigo421&layout=compact&langs_count=8&theme=dark&count_private=true"/>
   </a>
-</div>
+</div> -->
 
 <br/>
 
