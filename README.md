@@ -17,7 +17,7 @@ Analytical and results-driven profile, capable of solving complex problems throu
 <br/>
 
 <div style="display: inline_block" title="Tecnologias"><br>
-  <img align="center" alt="Figma" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
   <img align="center" alt="Python" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Java" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="Go" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
@@ -27,6 +27,7 @@ Analytical and results-driven profile, capable of solving complex problems throu
   <img align="center" alt="Sass" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="JavaScript" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="TypeScript" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="AWS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img align="center" alt="NodeJS" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="NestJS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
   <img align="center" alt="ReactJS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -38,7 +39,6 @@ Analytical and results-driven profile, capable of solving complex problems throu
   <img align="center" alt="MongoDB" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="MySQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="PostgreSQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img align="center" alt="AWS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img align="center" alt="Terraform" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
   <img align="center" alt="TensorFlow" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
   <img align="center" alt="PyTorch" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
