@@ -5,8 +5,6 @@ Hands-on experience in **backend, frontend, and mobile development**, with a str
 Solid background in **API integration**, **clean architecture**, **deployment automation**, **containerization**, and **cloud infrastructure**.  
 Analytical and results-driven profile, capable of solving complex problems through **simple, effective, and maintainable solutions**.
 
----
-
 <!-- <div title="GitHub Stats">
   <a href="https://github.com/jrrodrigo421">
   <img height="170em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=jrrodrigo421&show_icons=true&theme=dark&count_private=true"/>
