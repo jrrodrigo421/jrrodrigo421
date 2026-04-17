@@ -49,5 +49,5 @@ Analytical and results-driven profile, capable of solving complex problems throu
 ---
 
 <a href="https://www.linkedin.com/in/rodrigo-lopes-jr/" target="_blank">
-  <img height="112" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img height="112" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
