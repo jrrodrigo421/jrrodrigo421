@@ -1,4 +1,3 @@
-<br/>
 
 Programmer with experience in **web and mobile projects**, working across both **monolithic and distributed architectures**.  
 Hands-on experience in **backend, frontend, and mobile development**, with a strong focus on **security** and **engineering best practices**.  
@@ -11,8 +10,6 @@ Analytical and results-driven profile, capable of solving complex problems throu
   <img height="170em" loading="lazy" src="https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=jrrodrigo421&layout=compact&langs_count=8&theme=dark&count_private=true"/>
   </a>
 </div> -->
-
-<br/>
 
 <!-- <div style="display: inline_block" title="Tecnologias"><br>
 
