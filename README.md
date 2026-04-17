@@ -16,7 +16,7 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 <br/>
 
-<div style="display: inline_block" title="Tecnologias"><br>
+<!-- <div style="display: inline_block" title="Tecnologias"><br>
 
   <img align="center" alt="Python" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Java" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
@@ -43,7 +43,7 @@ Analytical and results-driven profile, capable of solving complex problems throu
   <img align="center" alt="TensorFlow" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
   <img align="center" alt="PyTorch" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
 </div>
-
+ -->
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jrrodrigo421&bg_color=0d1117&color=8b0000&line=ff0000&point=ff4d4d&area=true&hide_border=true)
