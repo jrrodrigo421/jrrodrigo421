@@ -45,8 +45,61 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 ---
 
-<div style="width:100%; text-align:center;">
+<!-- <div style="width:100%; text-align:center;">
   <a href="https://www.linkedin.com/in/rodrigo-lopes-jr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div> -->
+
+
+<div class="linkedin-marquee">
+  <div class="linkedin-track">
+    <a href="SEU_LINKEDIN" target="_blank" rel="noopener noreferrer">
+      LINKEDIN · CONNECT WITH ME ·
+    </a>
+
+    <a href="SEU_LINKEDIN" target="_blank" rel="noopener noreferrer">
+      LINKEDIN · CONNECT WITH ME ·
+    </a>
+
+    <a href="SEU_LINKEDIN" target="_blank" rel="noopener noreferrer">
+      LINKEDIN · CONNECT WITH ME ·
+    </a>
+
+    <a href="SEU_LINKEDIN" target="_blank" rel="noopener noreferrer">
+      LINKEDIN · CONNECT WITH ME ·
+    </a>
+  </div>
 </div>
+
+<style>
+.linkedin-marquee {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.linkedin-track {
+  display: flex;
+  width: max-content;
+  animation: linkedin-scroll 15s linear infinite;
+}
+
+.linkedin-track a {
+  display: block;
+  padding-right: 40px;
+  color: inherit;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+@keyframes linkedin-scroll {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}
+</style>
