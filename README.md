@@ -43,8 +43,6 @@ Analytical and results-driven profile, capable of solving complex problems throu
 
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jrrodrigo421&bg_color=0d1117&color=8b0000&line=ff0000&point=ff4d4d&area=true&hide_border=true) -->
 
----
-
 <div style="width:100%; text-align:center;">
   <a href="https://www.linkedin.com/in/rodrigo-lopes-jr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
